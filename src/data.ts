@@ -124,7 +124,7 @@ export const animeData: ShowItem[] = [
     "year": 2022,
     "seasons": 3,
     "streamer": "Crunchyroll",
-    "status": "To Catch up",
+    "status": "To Catch Up",
     "category": "anime"
   },
   {
